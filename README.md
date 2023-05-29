@@ -6,7 +6,7 @@ A snake game I developed even without looking into the code that much. Created t
 
 ## Latest Release
 
-- Version: [v0.0.1-alpha]([https://github.com/Ron-Caster/SnakeGame/releases/tag/v0.0.1-alpha])
+- Version: [v0.0.1-alpha](https://github.com/Ron-Caster/SnakeGame/releases/tag/v0.0.1-alpha)
 - Release Date: May 29, 2023
 
 Description: This is the first release. Future releases will include bug fixes, performance improvements, and new features.
